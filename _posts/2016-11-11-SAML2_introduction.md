@@ -16,11 +16,13 @@ SSO is the name of an authentication process. An SSO (Single Sign-On) allows a p
 ![SSO example]({{ site.url }}/images/posts/20161111_saml2/ssoBasics.png)
 
 Benefits are:
+
 - One password to remember.
 - Less prompts, so less time spent typing his password.
 - Help desk costs lowered.
 
 Problems are:
+
 - Security must be enforced.
 - If the authentication server is down, all these applications are not accessible anymore.
 - Need a good identity data governance.
